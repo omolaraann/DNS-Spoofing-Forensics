@@ -1,0 +1,13 @@
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-09-22 14:19 -0400
+Nmap scan report for 192.168.232.1
+Host is up (0.00060s latency).
+MAC Address: 00:50:56:C0:00:08 (VMware)
+Nmap scan report for _gateway (192.168.232.2)
+Host is up (0.00042s latency).
+MAC Address: 00:50:56:FE:76:B0 (VMware)
+Nmap scan report for 192.168.232.254
+Host is up (0.00032s latency).
+MAC Address: 00:50:56:ED:BD:0B (VMware)
+Nmap scan report for kali.local (192.168.232.128)
+Host is up.
+Nmap done: 256 IP addresses (4 hosts up) scanned in 6.63 seconds

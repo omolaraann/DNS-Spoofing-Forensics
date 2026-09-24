@@ -1,0 +1,13 @@
+# Temporary/local files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local lab runtime files
+working/*.pcap
+working/*.pcapng
